@@ -26,6 +26,7 @@ Planned features (subject to change, and that might never be implemented):
 - Develop a better shake detection algorithm.
 - Add interface for game selection and configuration of the emulator options.
 - Internationalization.
+- Automatic translation of Samba de Amigo: Ver. 2000 into English.
 - Multiplayer support.
 - Add support for additional Dreamcast games and controllers (e.g., Fishing Controller, DreamParaPara, ...).
 - Support custom songs, including songs from other versions or even other games.
