@@ -29,7 +29,7 @@ The current version of the emulator is an alpha release, which means it is a wor
 
 Before running Oneiric Quest, ensure that you have the following:
 
-- A virtual reality headset (e.g., Oculus Rift, Meta Quest / Meta Quest 2, HTC Vive, etc.).
+- A virtual reality headset (e.g., Oculus Rift, Meta Quest / Meta Quest 2, HTC Vive, etc.) that can be connected to a Windows PC.
 - A Windows PC capable of running virtual reality applications.
 - A legally obtained disc image of _Samba de Amigo_ or _Samba de Amigo: Ver. 2000_ for the Dreamcast (not provided by this project).
 
@@ -49,6 +49,8 @@ Better local multiplayer support might be added soon, with Player 2 using either
 - `[Enter]` for Start
 
 For a better experience for Player 2, in the game, go to Options, Control Settings, and use control `Type B`. Then you can use keys `[E][D][C]` and `[O][K][M]` on a QUERTY keyboard for a more intuitive play (and gamepad is also better as well, IMO).
+
+Just keep in mind that playing Samba de Amigo without maracas is an unforgivable sin, a heresy against the very essence of those sacred instruments!
 
 ## Roadmap / To-Do List
 
