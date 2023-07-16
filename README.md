@@ -12,25 +12,13 @@ The current version of the emulator is an alpha release, which means it is a wor
 
 ## Table of Contents
 
-- [Roadmap / To-Do List](#roadmap--to-do-list)
 - [Release History](#release-history)
 - [Requirements](#requirements)
 - [Installation and Configuration](#installation-and-configuration)
-- [Legal Information](#legal-information)
+- [Roadmap / To-Do List](#roadmap--to-do-list)
+- [Contributing and Support](#contributing-and-support)
 - [Thanks](#thanks)
-
-## Roadmap / To-Do List
-
-Planned features (subject to change, and that might never be implemented):
-
-- Develop a better shake detection algorithm.
-- Add interface for game selection and configuration of the emulator options.
-- Internationalization.
-- Automatic translation of Samba de Amigo: Ver. 2000 into English.
-- Multiplayer support.
-- Add support for additional Dreamcast games and controllers (e.g., Fishing Controller, DreamParaPara, ...).
-- Support custom songs, including songs from other versions or even other games.
-- Linux and Mac support.
+- [Legal Information](#legal-information)
 
 ## Release History
 
@@ -50,16 +38,31 @@ Before running Oneiric Quest, ensure that you have the following:
 To install and configure Oneiric Quest:
 
 1. Download the latest release of Oneiric Quest from the [Releases page](https://github.com/AltoRetrato/Oneiric-Quest/releases).
-2. Unpack the file and put the game disc image in a folder inside `Plugins\UnrealLibretro\MyROMs`, e.g., `Plugins\UnrealLibretro\MyROMs\sda2k\sda2k.gdi`.
+2. Unpack the file and copy the game disc image into `Plugins\UnrealLibretro\MyROMs\sda\sda.gdi`
 
-## Legal Information
+Better local multiplayer support might be added soon, with Player 2 using either a gamepad or the keyboard, using the following keyboard mapping:
+- arrow keys for D-Pad
+- `[Z]` for button A
+- `[X]` for button B
+- `[A]` for button X
+- `[S]` for button Y
+- `[Enter]` for Start
 
-This project is a fan creation and is not affiliated with Sega. Please note:
+For a better experience for Player 2, in the game, go to Options, Control Settings, and use control `Type B`. Then you can use keys `[E][D][C]` and `[O][K][M]` on a QUERTY keyboard for a more intuitive play (and gamepad is also better as well, IMO).
 
-- No Dreamcast BIOS file is provided by nor is required for this project to run.
-- Oneiric Quest is an unofficial project and does not endorse or encourage piracy.
-- The emulator requires (but doesn't provide) a Dreamcast game disc image to play Samba de Amigo.
-- This project is provided "as is," without warranty of any kind, express or implied. I am not responsible for any damages or legal issues that may arise from the use of this software.
+## Roadmap / To-Do List
+
+Planned features (subject to change, and that might never be implemented):
+
+- Develop a better shake detection algorithm.
+- Add interface for game selection and configuration of emulator options.
+- Internationalization.
+- Automatic translation of Samba de Amigo: Ver. 2000 into English.
+- Multiplayer support (local and remote).
+- Add support for additional Dreamcast games and controllers (e.g., Fishing Controller, DreamParaPara, ...).
+- Support custom songs, including songs from other versions or even other games.
+- Linux and Mac support.
+- Maybe native Quest 2 (or at least Quest 3) support.
 
 ## Contributing and Support
 
@@ -72,3 +75,12 @@ Oneiric Quest would not be possible without the incredible and amazing hard work
 - [Flycast](https://github.com/flyinghead/flycast): a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator
 - [UnrealLibretro](https://github.com/N7Alpha/UnrealLibretro): a Libretro Frontend for Unreal Engine
 - [Unreal Engine](https://www.unrealengine.com/)
+
+## Legal Information
+
+This project is a fan creation and is not affiliated with Sega. Please note:
+
+- No Dreamcast BIOS file is provided by nor is required for this project to run.
+- Oneiric Quest is an unofficial project and does not endorse or encourage piracy.
+- The emulator requires (but doesn't provide) a Dreamcast game disc image to play Samba de Amigo.
+- This project is provided "as is," without warranty of any kind, express or implied. I am not responsible for any damages or legal issues that may arise from the use of this software.
