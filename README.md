@@ -1,5 +1,10 @@
 # Oneiric Quest - Virtual Reality Samba de Amigo Emulator
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AltoRetrato/Oneiric-Quest/main/images/cover.jpg" alt="A Virtual Reality screenshot of a player holding virtual maracas and playing Samba de Amigo for the Dreamcast on a Samba de Amigo Ver. 2000 arcade cabinet">
+</div>
+
+
 This project is a virtual reality emulator for the Sega Dreamcast games _Samba de Amigo_ and _Samba de Amigo: Ver. 2000_. It allows you to play Samba de Amigo with virtual maracas in a virtual reality environment.
 
 **Disclaimer:** This emulator is an unofficial project created by a fan and is not associated with Sega. All trademarks, game titles, and copyrights mentioned within the project belong to their respective owners.
@@ -8,7 +13,7 @@ This project is a virtual reality emulator for the Sega Dreamcast games _Samba d
 
 ## Alpha Version Notice
 
-The current version of the emulator is an alpha release, which means it is a work in progress and may have rough edges. While I strive to provide the best experience possible, please be aware that some features may be incomplete or subject to bugs. Feedback and bug reports are appreciated.
+The current version is an alpha release, which means it is a work in progress and may have rough edges. While I strive to provide the best experience possible, please be aware that some features are incomplete or subject to bugs. Feedback and bug reports are appreciated.
 
 ## Table of Contents
 
@@ -48,9 +53,11 @@ Better local multiplayer support might be added soon, with Player 2 using either
 - `[S]` for button Y
 - `[Enter]` for Start
 
-For a better experience for Player 2, in the game, go to Options, Control Settings, and use control `Type B`. Then you can use keys `[E][D][C]` and `[O][K][M]` on a QUERTY keyboard for a more intuitive play (and gamepad is also better as well, IMO).
+For a better experience for Player 2, set the game to use control `Type B` (start the game, go to Options, Control Settings). Then you can use keys `[E][D][C]` and `[O][K][M]` on a QUERTY keyboard for a more intuitive play. `Type B` also improves gamepad gameplay, IMO.
 
 Just keep in mind that playing Samba de Amigo without maracas is an unforgivable sin, a heresy against the very essence of those sacred instruments!
+
+For a better shake detection, shake the maracas towards the screen.
 
 ## Roadmap / To-Do List
 
@@ -63,12 +70,12 @@ Planned features (subject to change, and that might never be implemented):
 - Multiplayer support (local and remote).
 - Add support for additional Dreamcast games and controllers (e.g., Fishing Controller, DreamParaPara, ...).
 - Support custom songs, including songs from other versions or even other games.
-- Linux and Mac support.
 - Maybe native Quest 2 (or at least Quest 3) support.
+- Linux and Mac support.
 
 ## Contributing and Support
 
-If you encounter any issues or have any questions, suggestions or feedback regarding Oneiric Quest, please feel free to [open an issue](https://github.com/AltoRetrato/Oneiric-Quest/issues).
+If you encounter any issues or have any questions, suggestions or feedback regarding Oneiric Quest, please feel free to [open an issue](https://github.com/AltoRetrato/Oneiric-Quest/issues) or send a pull request.
 
 ## Thanks
 
