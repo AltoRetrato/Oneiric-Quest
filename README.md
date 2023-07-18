@@ -1,9 +1,9 @@
 # Oneiric Quest - Virtual Reality Samba de Amigo Emulator
 
 <div align="center">
-  <a href="http://www.youtube.com/watch?v=XiwWT4TSFoo"><img width="596" height="332" src="https://github-production-user-asset-6210df.s3.amazonaws.com/22997468/254255425-a592ebef-eaaa-4986-8887-0f3f48ebb22e.png" alt="Oneiric Quest YouTube promo video"></a>
+  <a href="http://www.youtube.com/watch?v=XiwWT4TSFoo"><img width="556" height="310" src="https://github-production-user-asset-6210df.s3.amazonaws.com/22997468/254255425-a592ebef-eaaa-4986-8887-0f3f48ebb22e.png" alt="Oneiric Quest YouTube promo video"></a>
 
-  <img width="332" height="332" src="https://raw.githubusercontent.com/AltoRetrato/Oneiric-Quest/main/images/cover.jpg" alt="A Virtual Reality screenshot of a player holding virtual maracas and playing Samba de Amigo for the Dreamcast on a Samba de Amigo Ver. 2000 arcade cabinet">
+  <img width="310" height="310" src="https://raw.githubusercontent.com/AltoRetrato/Oneiric-Quest/main/images/cover.jpg" alt="A Virtual Reality screenshot of a player holding virtual maracas and playing Samba de Amigo for the Dreamcast on a Samba de Amigo Ver. 2000 arcade cabinet">
 </div>
 
 
