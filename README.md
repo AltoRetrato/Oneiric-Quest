@@ -29,8 +29,7 @@ The current version is an alpha release, which means it is a work in progress an
 
 ## Release History
 
-- (2023-07-??) **Alpha 0.1.0**
-    - Initial alpha release soon!
+- (2023-07-18) **Alpha 0.1.0**
 
 ## Requirements
 
